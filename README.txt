@@ -3,7 +3,7 @@ A* Search Group Project
 
 Members:
 Nikita Volodin 
-Adedamilotun Kanji-Ojelade(akk91)
+Adedamilotun Kanji-Ojelade
 Kunal Thakker
 Max Bartlik
 ----------------------------------------------------------------------------------------------------------
