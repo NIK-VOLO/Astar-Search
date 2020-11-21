@@ -1,5 +1,5 @@
 
-Group project for intro to Ai assignment 1
+A* Search Group Project
 
 Members:
 Nikita Volodin 
@@ -8,8 +8,8 @@ Kunal Thakker
 Max Bartlik
 ----------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------
-# INSTRUCTIONS:
-(Requires pygame, tkinter, guppy3, cProfile)
+INSTRUCTIONS:
+(Requires pygame, tkinter, guppy3, cProfile, memory profiler)
 
   * Launch using Astar_menu.py
 
@@ -35,7 +35,7 @@ Max Bartlik
  ** When you wish to exit this program properly, exit by closing the A* Menu to avoid causing the program to hang **
 ----------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------
-# ISSUES:
+ISSUES:
 There are currently some obvious issues with the code that have not yet been addressed.
 
 * Runtime seems to always increase when outputting to the terminal on every iteration of the algorithm.
