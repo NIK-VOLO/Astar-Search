@@ -1,14 +1,16 @@
 # A* Search
 #### With weighted A* and Sequential A* algorithms
+This is a university group project where we were tasked with extensively exploring the different versions of the A* search algorithm, benchmark the performance, and write a detailed report on our findings.
 
 ### Members:
 - Nikita Volodin 
-
 - Adedamilotun Kanji-Ojelade
-
 - Kunal Thakker
-
 - Max Bartlik
+
+### Previews:
+<img src = "Sequential_weight-(2,1.75).jpg"></img>
+__Figure 1:__ Sequential A* agent example
 
 ## INSTRUCTIONS:
 (Requires pygame, tkinter, guppy3, cProfile, memory profiler)
