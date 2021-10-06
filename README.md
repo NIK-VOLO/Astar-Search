@@ -29,10 +29,10 @@ __Figure 1:__ Sequential A* agent example
   * Run benchmark test: Is only used for the purpose of writing the final report for the project
 
   Settings:
-    * input weight field: input a weight and click update
-    * Select cost variant: use the list to select which type of cost function
+   - input weight field: input a weight and click update
+   - Select cost variant: use the list to select which type of cost function
       you want the program to use to run the algorithm, then click update
-    * Select Heuristic: Use the list to select the heuristic you want the algorithm
+   - Select Heuristic: Use the list to select the heuristic you want the algorithm
       to use, then click update. (Note: Using Sequential H Algo will use a separate algorithm,
          weights for this cannot currently be changed)
 
