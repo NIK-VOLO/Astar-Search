@@ -12,6 +12,10 @@ This is a university group project where we were tasked with extensively explori
 <img src = "Sequential_weight-(2,1.75).jpg"></img>
 __Figure 1:__ Sequential A* agent example
 
+![Astar Search Map Generation](https://user-images.githubusercontent.com/61594892/186546484-e0f80c06-52cd-4558-bd11-3cdce4b3c0a2.gif)
+![Astar Search Demo](https://user-images.githubusercontent.com/61594892/186546486-4e02aa63-a542-4d7a-9832-e38f6f7f8d35.gif)
+
+
 ## INSTRUCTIONS:
 (Requires pygame, tkinter, guppy3, cProfile, memory profiler)
 
